@@ -1,0 +1,90 @@
+.col1 {
+	background-color: orange;
+	clear: white;
+}
+
+.col2 {
+	background-color: brown;
+	color: white;
+}
+
+.left {
+	color: white;
+}
+
+.colA {
+	color: white;
+}
+
+.colB {
+	background-color: pink;
+	color: white;
+}
+
+#man h1 {
+	background-color: pink;
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#good h1 {
+	background-color: blue;
+	color: white;
+	text-align: center;
+	font-family: cursive;
+}
+
+#good p {
+	color: red;
+}
+
+#calm h1 {
+	background-color: green;
+	color: white;
+	text-align: center;
+	font-family: cursive;
+}
+
+#calm p {
+	color: black;
+}
+
+.page1 {
+	background-color: brown;
+	color: white;
+	font-family: cursive;
+}
+
+.page2 {
+	background-color: purple;
+	color: white;
+	font-family: cursive;
+}
+
+.top {
+	display: flex;
+	justify-content: center;
+	color: white;
+	background-color: red;
+	width: 600px;
+	height: 80px;
+}
+
+.under {
+	display: flex;
+	justify-content: center;
+	color: white;
+	background-color: grey;
+	width: 800px;
+	height: 20px;
+}
+
+.left {
+	display: flex;
+	background-color: green;
+}
+
+.right {
+	display: flex;
+}
